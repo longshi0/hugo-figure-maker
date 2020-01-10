@@ -1,0 +1,46 @@
+{{< gallery >}}
+
+{{< figure link="/img/podejrzane/Balony.jpg" caption="Zbierająca balony." >}}
+
+{{< figure link="/img/podejrzane/Hamak.jpg" caption="Hamak." >}}
+
+{{< figure link="/img/podejrzane/Kazimierz Dolny(Obrazy podejrzane).jpg"
+caption="Kazimierz Dolny." alt="Układanka światła i cienia. Interpretacja dowolna. Elementy „porozrzucane” w kadrze mogą stać się pretekstem do opowiedzenia niejednej historii. Być może z wątkiem kryminalnym?" >}}
+
+{{< figure link="/img/podejrzane/Lublin 6x6 Lublin6x6 (Obrazy podejrzane).jpg" caption="Lublin 6x6." alt="Zdjęcie wykonane analogową lustrzanką dwuobiektywową – darem wiolonczelistki Wery Kidżeski. Ciekawostką jest fakt, że 12-klatkowy film (kolejny dar – tym razem Pana dyrektora Muzeum Fotografii w Janowie Lubelskim) pamięta czasy drugiej wojny światowej. Między innymi to dzięki „skazom” i „bliznom” tego wiekowego materiału światłoczułego, udało się osiągnąć ciekawe wizualnie efekty." >}}
+
+{{< figure link="/img/podejrzane/Lublin6x6 (Obrazy podejrzane).jpg" caption="Lublin 6x6." alt="Kolejne zdjęci z kolekcji Lomo Lubitel. Wykorzystując elementy „scenografii” lubelskiej Nocy Kultury, powstał obraz z pogranicza wieków, stając się tym samym, obrazem uniwersalnym - poza czasem." >}}
+
+{{< figure link="/img/podejrzane/Lublin, autoportret (Obrazy podejrzane) paw.jpg" caption="Autoportret z pawiem." >}}
+
+{{< figure link="/img/podejrzane/Lublin, Karnawał Sztukmistrzów (Obrazy podejrzane).jpg" caption="Karnawał Sztukmistrzów." alt="Fotografując Festiwal Sztukmistrzów, niełatwo było znaleźć ujęcie nietypowe, ale chyba się udało." >}}
+
+{{< figure link="/img/podejrzane/Lublin lustro.jpg" caption="Pejzaż (i)lustracyjny." alt="Jedno ze zdjęć panoramicznych – w rozumieniu mojego aparatu-małpki – zdjęć (klatek) obciętych od góry i od dołu." >}}
+
+{{< figure link="/img/podejrzane/Lublin, Obrazy podejrzane, 10 kwietnia.jpg" caption="10 kwietnia." alt="10 kwietnia. Miesięcznica. Plac Teatralny. Zdjęcie „od tyłu”.">}}
+
+{{< figure link="/img/podejrzane/Lublin,(Obrazy podejrzane) cień.jpg" caption="Fotografi(k)a." >}}
+
+{{< figure link="/img/podejrzane/Lublin,Obrazy podejrzane dom cienie.jpg" caption="Tańczące cienie, przywołujące alter(natywną) rzeczywistość." >}}
+
+{{< figure link="/img/podejrzane/Lublin(Obrazy podejrzane) Hipoteczna.jpg" caption="Hipoteczna." alt="Panie nie do zdarcia spod tak zwanego „murku” to kontekst społeczny jednej z lubelskich kawiarni. Mikroświat, który żyje tuż obok, przenikając w jej strukturę. Do zaoferowania mają cuda natury z własnego ogródka. Nie pryskane. Mowa o uliczce Hipotecznej, wciśniętej między budynkami i kawiarni Heca." >}}
+
+{{< figure link="/img/podejrzane/Lublin, Obrazy podejrzane, Jezuicka.jpg" caption="Prawie żywa reklama." >}}
+
+{{< figure link="/img/podejrzane/Lublin Obrazy podejrzane - lalki.jpg" caption="Lalki." alt=" Najbardziej stosownym słowem jest chyba tutaj słowo creepy. Nic dodać, nic ująć. " >}}
+
+{{< figure link="/img/podejrzane/Lublin, Obrazy podejrzane, pies.jpg" caption="Pies czy kot?" alt="Pies czy kot? Większość uparcie twierdzi, że kot. Każdy widzi to, co chce i może niech tak zostanie. Przynajmniej w kwestii tego zdjęcia.">}}
+
+{{< figure link="/img/podejrzane/Lublin, Obrazy podejrzane, rowerek.jpg" caption="Rowerek." alt="Zdjęcie z błędem, jednak – celowym, co nadaje mu wartość." >}}
+
+{{< figure link="/img/podejrzane/Lublin portret w lustrze.jpg" caption="Portret pośredni." >}}
+
+{{< figure link="/img/podejrzane/Photo12_12.jpg" caption="Pies." >}}
+
+{{< figure link="/img/podejrzane/Photo16_16.jpg" caption="Parasole." >}}
+
+
+{{</ gallery >}}
+
+
+{{< load-photoswipe >}}
